@@ -9,7 +9,7 @@ public class Main {
     public static void main(String[] args) {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         String str;
-        System.out.println("Вес Рост в метрах сцуко");
+        System.out.println("Weight Height in M.");
 
         while (true) {
             try {
